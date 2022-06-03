@@ -1,0 +1,14 @@
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\bin\Debug\netcoreapp3.1\SwitchStatementExercise.exe
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\bin\Debug\netcoreapp3.1\SwitchStatementExercise.deps.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\bin\Debug\netcoreapp3.1\SwitchStatementExercise.runtimeconfig.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\bin\Debug\netcoreapp3.1\SwitchStatementExercise.runtimeconfig.dev.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\bin\Debug\netcoreapp3.1\SwitchStatementExercise.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\bin\Debug\netcoreapp3.1\SwitchStatementExercise.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\obj\Debug\netcoreapp3.1\SwitchStatementExercise.csproj.AssemblyReference.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\obj\Debug\netcoreapp3.1\SwitchStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\obj\Debug\netcoreapp3.1\SwitchStatementExercise.AssemblyInfoInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\obj\Debug\netcoreapp3.1\SwitchStatementExercise.AssemblyInfo.cs
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\obj\Debug\netcoreapp3.1\SwitchStatementExercise.csproj.CoreCompileInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\obj\Debug\netcoreapp3.1\SwitchStatementExercise.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\obj\Debug\netcoreapp3.1\SwitchStatementExercise.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SwitchStatementExercise\SwitchStatementExercise\obj\Debug\netcoreapp3.1\SwitchStatementExercise.genruntimeconfig.cache
